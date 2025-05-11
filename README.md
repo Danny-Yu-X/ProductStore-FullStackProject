@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 ## EDIT
 
-![Desktop Version](./desktop-version.png)
+![Desktop Version](./productStore.png)
 
 ## My process
 
