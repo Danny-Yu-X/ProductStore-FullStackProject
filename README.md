@@ -1,4 +1,4 @@
-# Product Store Full Stack Project
+# Product Store Full Stack Application Project
 
 ## Table of contents
 
