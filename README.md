@@ -24,7 +24,6 @@ Users should be able to:
 - Toggle the webpage from light to dark mode while maintaining color contrast and responsiveness
 
 ### Screenshot
-## EDIT
 
 ![Desktop Version](./productStore.png)
 
